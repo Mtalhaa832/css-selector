@@ -1,0 +1,51 @@
+/* universil selector*/
+/* *{
+    color: red;
+} */
+
+/*type selector*/
+/* single */
+/* h1{color: ;
+    color: red;
+
+/*  multiple  */
+/* h1, span{
+    color: red; */
+
+    /* calss selector */
+/* .interest{
+    /* color: red; */ 
+    
+
+    /* id selector */
+    /* ##-span{
+        color: red; */
+        /* child seector */
+        /* span >p{
+            color: red; */
+            /* descendant seletor */
+            /* div p{
+                color: red; */
+                /* Adjacent sibling selector */
+                /* h1 p{
+                    color: red; */
+                    /* General sibling selector */
+                    h1~p{
+                        color: red;
+                    }
+                
+                
+                }
+            }
+        }
+    }
+
+
+    
+    
+
+
+
+
+
+
